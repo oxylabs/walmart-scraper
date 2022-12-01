@@ -1,1 +1,1 @@
-# walmart-scraper
+# Walmart Scraper
