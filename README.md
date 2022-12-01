@@ -33,7 +33,7 @@ response = requests.request(
 pprint(response.json())
 ```
 
-Find code examples for other progrmaming languages [**here**](https://github.com/oxylabs/walmart-scraper/tree/main/code%20examples)
+Find code examples for other programming languages [**here**](https://github.com/oxylabs/walmart-scraper/tree/main/code%20examples)
 
 #### Output Example
 ```json
