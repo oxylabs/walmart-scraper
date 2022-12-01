@@ -1,7 +1,5 @@
 # Walmart Scraper
 
-
-
 ### How it works
 
 You can get Walmart results by providing your own URLs to our service. We can return the HTML for any Walmart page you like. Additionally, we can deliver **structured (parsed) output for Walmart product, search, and offer listing pages**.
