@@ -1,5 +1,8 @@
 # Walmart Scraper
 
+Oxylabs’ Walmart Scraper is a scraping solution that allows you to effortlessly extract data from a Walmart website in real-time.
+In this brief guide, we’ll detail how a Walmart Scraper works and provide code examples to better visualize how easy it's to use it.
+
 ### How it works
 
 You can get Walmart results by providing your own URLs to our service. We can return the HTML for any Walmart page you like. Additionally, we can deliver **structured (parsed) output for Walmart product, search, and offer listing pages**.
