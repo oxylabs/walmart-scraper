@@ -106,3 +106,6 @@ Find code examples for other programming languages [**here**](https://github.com
     ]
 }
 ```
+
+With our Walmart Scraper, you can easily extract publicly available data from any Walmart web page. Quickly access product prices, descriptions, reviews, and much more in real-time to gain a competitive edge.
+If you have any questions or concerns, please feel free to contact our support team via live chat or [**email**](mailto:support@oxylabs.io).
