@@ -3,7 +3,7 @@
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
 
-Oxylabs’ Walmart Scraper is a scraping solution that allows you to effortlessly extract data from a Walmart website in real-time.
+Oxylabs’ [Walmart Scraper](https://oxy.yt/uasu) is a scraping solution that allows you to effortlessly extract data from a Walmart website in real-time.
 In this brief guide, we’ll detail how a Walmart Scraper works and provide code examples to better visualize how easy it's to use it.
 
 ### How it works
